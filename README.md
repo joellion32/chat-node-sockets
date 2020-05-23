@@ -3,4 +3,4 @@
 
 recuerda para poder ejecutar debes escribir
 
-##npm install ##
+npm install
